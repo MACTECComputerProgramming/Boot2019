@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\StudentWindowsApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\StudentWindowsApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\StudentWindowsApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\GraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\UndergraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\GraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\bin\Debug\UndergraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.StudentWindowsAppForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\StudentWindowsApp\StudentWindowsApp\obj\Debug\StudentWindowsApp.pdb

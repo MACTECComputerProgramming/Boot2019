@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ComputerClubTShirtSales", ".", "{2BE790E9-967C-4B39-8AA2-1D2A400057FF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/ComputerClubTShirtSales"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Solutions\Ch15_07\ComputerClubTShirtSales\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ComputerClubTShirtSales\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ComputerClubTShirtSales"
+		Release.AspNetCompiler.PhysicalPath = "..\..\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Solutions\Ch15_07\ComputerClubTShirtSales\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ComputerClubTShirtSales\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50454"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE790E9-967C-4B39-8AA2-1D2A400057FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE790E9-967C-4B39-8AA2-1D2A400057FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

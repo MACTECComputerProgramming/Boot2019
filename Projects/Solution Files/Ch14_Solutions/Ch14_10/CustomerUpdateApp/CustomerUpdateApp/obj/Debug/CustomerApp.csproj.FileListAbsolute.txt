@@ -1,0 +1,16 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerApp.CustomerDisplayApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerApp.CustomerDisplayApp.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_10\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache

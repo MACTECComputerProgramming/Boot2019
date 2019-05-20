@@ -1,0 +1,27 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorAppForm.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorAppForm.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorAppForm.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_05\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache

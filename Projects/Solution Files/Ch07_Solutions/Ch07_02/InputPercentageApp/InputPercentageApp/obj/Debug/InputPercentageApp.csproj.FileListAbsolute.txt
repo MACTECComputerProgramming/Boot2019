@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.csprojResolveAssemblyReference.cache

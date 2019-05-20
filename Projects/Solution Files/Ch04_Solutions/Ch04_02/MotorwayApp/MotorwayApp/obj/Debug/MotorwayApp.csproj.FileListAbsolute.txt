@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\bin\Debug\MotorwayApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\MotorwayApp\MotorwayApp\obj\Debug\MotorwayApp.csprojResolveAssemblyReference.cache

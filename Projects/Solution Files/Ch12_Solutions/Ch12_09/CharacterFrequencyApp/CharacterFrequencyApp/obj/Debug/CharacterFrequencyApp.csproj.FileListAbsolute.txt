@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\bin\Debug\CharacterFrequencyApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.FrmCounter.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\bin\Debug\CharacterFrequencyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\bin\Debug\CharacterFrequencyApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\bin\Debug\CharacterFrequencyApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_09\CharacterFrequencyApp\CharacterFrequencyApp\obj\Debug\CharacterFrequencyApp.pdb

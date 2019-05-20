@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\bin\Debug\NameSeparatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\obj\Debug\NameSeparatorApp.NameSeparatorAppForm.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\obj\Debug\NameSeparatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\obj\Debug\NameSeparatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\bin\Debug\NameSeparatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\bin\Debug\NameSeparatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\obj\Debug\NameSeparatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_06\NameSeparatorApp\NameSeparatorApp\obj\Debug\NameSeparatorApp.pdb

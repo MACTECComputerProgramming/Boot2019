@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_03\GraduationApp\GraduationApp\bin\Debug\GraduationApp.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_03\GraduationApp\GraduationApp\bin\Debug\GraduationApp.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_03\GraduationApp\GraduationApp\bin\Debug\GraduationApp.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_03\GraduationApp\GraduationApp\obj\Debug\GraduationApp.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_03\GraduationApp\GraduationApp\obj\Debug\GraduationApp.pdb

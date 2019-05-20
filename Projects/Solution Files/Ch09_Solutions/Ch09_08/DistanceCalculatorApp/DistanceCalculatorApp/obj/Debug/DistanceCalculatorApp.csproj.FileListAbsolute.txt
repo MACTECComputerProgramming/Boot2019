@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\bin\Debug\DistanceCalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\bin\Debug\DistanceCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\bin\Debug\DistanceCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.DistanceCalculatorForm.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\bin\Debug\DistanceCalculatorApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.DistanceCalculatorForm.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_08\DistanceCalculatorApp\DistanceCalculatorApp\obj\Debug\DistanceCalculatorApp.csproj.GenerateResource.Cache

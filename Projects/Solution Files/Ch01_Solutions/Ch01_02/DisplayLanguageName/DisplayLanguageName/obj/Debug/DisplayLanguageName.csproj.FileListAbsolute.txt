@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_02\DisplayLanguageName\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_02\DisplayLanguageName\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_02\DisplayLanguageName\DisplayLanguageName\bin\Debug\DisplayLanguageName.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_02\DisplayLanguageName\DisplayLanguageName\obj\Debug\DisplayLanguageName.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_02\DisplayLanguageName\DisplayLanguageName\obj\Debug\DisplayLanguageName.pdb

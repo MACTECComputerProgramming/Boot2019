@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\bin\Debug\StoreRandomNumbersApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\bin\Debug\StoreRandomNumbersApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\bin\Debug\StoreRandomNumbersApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\bin\Debug\StoreRandomNumbersApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_05\StoreRandomNumbersApp\StoreRandomNumbersApp\obj\Debug\StoreRandomNumbersApp.csprojResolveAssemblyReference.cache

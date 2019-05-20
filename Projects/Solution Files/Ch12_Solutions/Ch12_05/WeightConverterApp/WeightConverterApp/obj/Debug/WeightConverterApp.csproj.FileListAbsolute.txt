@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\bin\Debug\WeightConverterApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\bin\Debug\WeightConverterApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\bin\Debug\WeightConverterApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_05\WeightConverterApp\WeightConverterApp\obj\Debug\WeightConverterApp.FrmWeightConverter.resources

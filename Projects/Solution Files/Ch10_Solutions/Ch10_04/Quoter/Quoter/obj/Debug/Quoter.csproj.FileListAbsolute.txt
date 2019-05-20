@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\bin\Debug\Quoter.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\bin\Debug\Quoter.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\bin\Debug\Quoter.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.QuoteForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\Quoter\Quoter\obj\Debug\Quoter.pdb

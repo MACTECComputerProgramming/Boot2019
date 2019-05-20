@@ -1,0 +1,30 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.FloorCoveringAppForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_06\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.pdb
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.exe
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.pdb
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.pdb
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.FloorCoveringAppForm.resources
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csproj.GenerateResource.Cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\bin\Debug\FloorCoveringApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.FloorCoveringAppForm.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_09\FloorCoveringApp\FloorCoveringApp\obj\Debug\FloorCoveringApp.csproj.GenerateResource.Cache

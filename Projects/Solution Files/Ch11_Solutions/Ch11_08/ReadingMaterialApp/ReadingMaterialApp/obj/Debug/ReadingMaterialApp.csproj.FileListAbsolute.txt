@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\bin\Debug\ReadingMaterialApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\bin\Debug\ReadingMaterialApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\bin\Debug\ReadingMaterialApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_08\ReadingMaterialApp\ReadingMaterialApp\obj\Debug\ReadingMaterialApp.ReadingMaterialForm.resources

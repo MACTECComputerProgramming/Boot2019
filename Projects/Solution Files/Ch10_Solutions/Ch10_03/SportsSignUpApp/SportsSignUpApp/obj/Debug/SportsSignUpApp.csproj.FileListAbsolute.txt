@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\bin\Debug\SportsSignUpApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.SportsForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\bin\Debug\SportsSignUpApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\bin\Debug\SportsSignUpApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_03\SportsSignUpApp\SportsSignUpApp\obj\Debug\SportsSignUpApp.pdb

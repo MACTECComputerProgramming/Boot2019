@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\DisplayBanner\bin\Debug\DisplayBanner.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\DisplayBanner\bin\Debug\DisplayBanner.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\DisplayBanner\bin\Debug\DisplayBanner.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\DisplayBanner\obj\Debug\DisplayBanner.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\DisplayBanner\obj\Debug\DisplayBanner.pdb

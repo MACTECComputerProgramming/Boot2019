@@ -1,0 +1,36 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_07\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08 - Copy\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Solutions\Ch12_08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache

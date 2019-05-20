@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\bin\Debug\ParksApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\bin\Debug\ParksApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\bin\Debug\ParksApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\bin\Debug\ParksApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\obj\Debug\ParksApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\obj\Debug\ParksApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\obj\Debug\ParksApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\bin\Debug\ParksApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\obj\Debug\ParksApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_08\ParksApp\ParksApp\obj\Debug\ParksApp.pdb

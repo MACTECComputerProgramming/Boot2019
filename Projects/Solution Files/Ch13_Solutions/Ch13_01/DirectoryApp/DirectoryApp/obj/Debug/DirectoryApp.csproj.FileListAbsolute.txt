@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb

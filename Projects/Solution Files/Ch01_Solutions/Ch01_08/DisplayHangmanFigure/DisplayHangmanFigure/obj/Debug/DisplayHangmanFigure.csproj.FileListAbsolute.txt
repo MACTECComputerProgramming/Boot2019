@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_08\DisplayHangmanFigure\DisplayHangmanFigure\bin\Debug\DisplayHangmanFigure.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_08\DisplayHangmanFigure\DisplayHangmanFigure\bin\Debug\DisplayHangmanFigure.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_08\DisplayHangmanFigure\DisplayHangmanFigure\bin\Debug\DisplayHangmanFigure.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_08\DisplayHangmanFigure\DisplayHangmanFigure\obj\Debug\DisplayHangmanFigure.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_08\DisplayHangmanFigure\DisplayHangmanFigure\obj\Debug\DisplayHangmanFigure.pdb

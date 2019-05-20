@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.FrmBMI.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_06\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb

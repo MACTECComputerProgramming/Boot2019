@@ -1,0 +1,25 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_04\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache

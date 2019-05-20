@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\bin\Debug\DateApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\obj\Debug\DateApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\bin\Debug\DateApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\bin\Debug\DateApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\obj\Debug\DateApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_05\DateApp\DateApp\obj\Debug\DateApp.pdb

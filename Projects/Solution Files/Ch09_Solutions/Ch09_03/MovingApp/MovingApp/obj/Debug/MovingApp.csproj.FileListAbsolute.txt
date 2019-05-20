@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\bin\Debug\MovingApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.MovingAppForm.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\bin\Debug\MovingApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\bin\Debug\MovingApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\MovingApp\MovingApp\obj\Debug\MovingApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\bin\Debug\TShirtSalesApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.Form1.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\bin\Debug\TShirtSalesApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\bin\Debug\TShirtSalesApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_07\TShirtSalesApp\TShirtSalesApp\obj\Debug\TShirtSalesApp.pdb

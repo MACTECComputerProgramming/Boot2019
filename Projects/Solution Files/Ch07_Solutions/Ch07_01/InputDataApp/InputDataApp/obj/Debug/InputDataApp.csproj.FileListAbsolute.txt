@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\bin\Debug\InputDataApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch07_Solutions\Ch07_01\InputDataApp\InputDataApp\obj\Debug\InputDataApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.csprojAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.csproj.CoreCompileInputs.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.pdb

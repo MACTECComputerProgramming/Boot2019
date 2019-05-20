@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\bin\Debug\CalcAveWithTryCatch.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_03\CalcAveWithTryCatch\CalcAveWithTryCatch\obj\Debug\CalcAveWithTryCatch.csprojResolveAssemblyReference.cache

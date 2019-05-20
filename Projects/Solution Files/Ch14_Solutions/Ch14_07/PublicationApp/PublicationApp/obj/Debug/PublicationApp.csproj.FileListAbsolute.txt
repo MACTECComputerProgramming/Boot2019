@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\bin\Debug\PublicationApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\bin\Debug\Books.accdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\bin\Debug\PublicationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\bin\Debug\PublicationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\obj\Debug\PublicationApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\obj\Debug\PublicationApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\obj\Debug\PublicationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\obj\Debug\PublicationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_07\PublicationApp\PublicationApp\obj\Debug\PublicationApp.FrmPublicationApp.resources

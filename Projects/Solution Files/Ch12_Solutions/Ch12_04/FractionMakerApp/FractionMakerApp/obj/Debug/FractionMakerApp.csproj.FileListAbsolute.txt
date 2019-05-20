@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\bin\Debug\FractionMakerApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\bin\Debug\FractionMakerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\bin\Debug\FractionMakerApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.FrmFractions.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_04\FractionMakerApp\FractionMakerApp\obj\Debug\FractionMakerApp.pdb

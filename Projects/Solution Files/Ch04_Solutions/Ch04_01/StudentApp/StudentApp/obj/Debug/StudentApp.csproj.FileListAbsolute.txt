@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_04\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_01\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache

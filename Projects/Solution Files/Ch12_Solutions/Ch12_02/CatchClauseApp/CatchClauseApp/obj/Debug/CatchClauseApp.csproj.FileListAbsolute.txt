@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\bin\Debug\CatchClauseApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch12_Solutions\Ch12_02\CatchClauseApp\CatchClauseApp\obj\Debug\CatchClauseApp.pdb

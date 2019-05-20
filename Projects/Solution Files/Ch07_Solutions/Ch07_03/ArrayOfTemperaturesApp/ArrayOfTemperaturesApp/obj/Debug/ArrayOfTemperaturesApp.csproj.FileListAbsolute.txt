@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\bin\Debug\ArrayOfTemperaturesApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\bin\Debug\ArrayOfTemperaturesApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\bin\Debug\ArrayOfTemperaturesApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\obj\Debug\ArrayOfTemperaturesApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\obj\Debug\ArrayOfTemperaturesApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_03\ArrayOfTemperaturesApp\ArrayOfTemperaturesApp\obj\Debug\ArrayOfTemperaturesApp.csprojResolveAssemblyReference.cache

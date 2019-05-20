@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\bin\Debug\ReceiptApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_03\ReceiptApp\ReceiptApp\obj\Debug\ReceiptApp.pdb

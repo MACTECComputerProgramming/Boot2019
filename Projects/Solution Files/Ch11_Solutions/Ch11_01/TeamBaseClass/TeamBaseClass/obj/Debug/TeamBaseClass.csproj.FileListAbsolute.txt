@@ -1,0 +1,4 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_01\TeamBaseClass\TeamBaseClass\bin\Debug\TeamBaseClass.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_01\TeamBaseClass\TeamBaseClass\bin\Debug\TeamBaseClass.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_01\TeamBaseClass\TeamBaseClass\obj\Debug\TeamBaseClass.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_01\TeamBaseClass\TeamBaseClass\obj\Debug\TeamBaseClass.pdb

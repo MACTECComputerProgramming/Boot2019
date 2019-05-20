@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.InputForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\bin\Debug\InputForm.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.InputForm.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch10_Solutions\Ch10_01\InputForm\InputForm\obj\Debug\InputForm.csproj.GenerateResource.Cache

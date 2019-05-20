@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\bin\Debug\OneDimArrayGeneratorApp.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\bin\Debug\OneDimArrayGeneratorApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\bin\Debug\OneDimArrayGeneratorApp.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\obj\Debug\OneDimArrayGeneratorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\obj\Debug\OneDimArrayGeneratorApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_01\OneDimArrayGeneratorApp\OneDimArrayGeneratorApp\obj\Debug\OneDimArrayGeneratorApp.pdb

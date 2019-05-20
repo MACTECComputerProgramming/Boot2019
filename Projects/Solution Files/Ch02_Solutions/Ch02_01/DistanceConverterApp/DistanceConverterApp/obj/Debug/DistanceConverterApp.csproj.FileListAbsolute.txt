@@ -1,0 +1,14 @@
+C:\CSharp_4thEdition\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe.config
+C:\CSharp_4thEdition\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe
+C:\CSharp_4thEdition\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.pdb
+C:\CSharp_4thEdition\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.exe
+C:\CSharp_4thEdition\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.pdb
+C:\CSharp_4thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.exe
+C:\CSharp_4thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.pdb
+C:\CSharp_4thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe
+C:\CSharp_4thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch02_Solutions\Ch02_01\DistanceConverterApp\DistanceConverterApp\obj\Debug\DistanceConverterApp.csprojResolveAssemblyReference.cache

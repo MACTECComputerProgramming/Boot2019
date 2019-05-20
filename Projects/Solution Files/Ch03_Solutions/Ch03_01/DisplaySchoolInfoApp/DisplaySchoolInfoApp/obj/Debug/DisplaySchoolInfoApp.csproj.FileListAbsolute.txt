@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.csprojResolveAssemblyReference.cache

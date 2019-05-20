@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.FrmFileAccess.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.pdb

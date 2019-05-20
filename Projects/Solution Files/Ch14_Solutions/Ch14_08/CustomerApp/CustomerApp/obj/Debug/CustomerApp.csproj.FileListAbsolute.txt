@@ -1,0 +1,16 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FrmCustomerApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FrmCustomerApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_08\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache

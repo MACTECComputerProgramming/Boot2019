@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.pdb

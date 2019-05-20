@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ToDoApp", ".", "{4ED9A2B6-1952-4B02-B439-2061B31970EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/ToDoApp"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Solutions\Ch15_03\ToDoApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ToDoApp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ToDoApp"
+		Release.AspNetCompiler.PhysicalPath = "..\..\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Solutions\Ch15_03\ToDoApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ToDoApp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50404"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED9A2B6-1952-4B02-B439-2061B31970EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED9A2B6-1952-4B02-B439-2061B31970EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\bin\Debug\NumberProcessor.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.FrmNumberProcessor.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\bin\Debug\NumberProcessor.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\bin\Debug\NumberProcessor.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Solutions\Ch12_01\NumberProcessor\NumberProcessor\obj\Debug\NumberProcessor.pdb

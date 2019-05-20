@@ -1,0 +1,13 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\bin\Debug\GraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\bin\Debug\GraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\obj\Debug\GraduateStudent.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\obj\Debug\GraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\GraduateStudent\GraduateStudent\obj\Debug\GraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\obj\Debug\GraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\bin\Debug\GraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\bin\Debug\GraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\GraduateStudent\GraduateStudent\obj\Debug\GraduateStudent.pdb

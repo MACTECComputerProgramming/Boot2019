@@ -1,0 +1,4 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\Student\Student\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\Student\Student\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\Student\Student\obj\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\Student\Student\obj\Debug\Student.pdb

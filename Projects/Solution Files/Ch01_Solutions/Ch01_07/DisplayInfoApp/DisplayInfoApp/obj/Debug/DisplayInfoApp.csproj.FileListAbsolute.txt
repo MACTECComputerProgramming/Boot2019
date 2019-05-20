@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\obj\Debug\DisplayInfoApp.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\obj\Debug\DisplayInfoApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\obj\Debug\DisplayInfoApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\obj\Debug\DisplayInfoApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\bin\Debug\DisplayInfoApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_07\DisplayInfoApp\DisplayInfoApp\obj\Debug\DisplayInfoApp.csprojResolveAssemblyReference.cache

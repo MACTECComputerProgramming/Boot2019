@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\bin\Debug\SkiSignUpApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\bin\Debug\SkiSignUpApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\bin\Debug\SkiSignUpApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.SkiSignUpForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch10\Ch10_Solutions\Ch10_02\SkiSignUpApp\SkiSignUpApp\obj\Debug\SkiSignUpApp.pdb

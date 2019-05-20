@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.pdb

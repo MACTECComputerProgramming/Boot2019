@@ -1,0 +1,9 @@
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\bin\Debug\DisplayName.exe.config
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\bin\Debug\DisplayName.exe
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\bin\Debug\DisplayName.pdb
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\obj\Debug\DisplayName.csprojResolveAssemblyReference.cache
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\obj\Debug\DisplayName.exe
+C:\CSharpProjects\Ch01\Solutions\Ch01_01\DisplayName\DisplayName\obj\Debug\DisplayName.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_01\DisplayName\DisplayName\bin\Debug\DisplayName.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_01\DisplayName\DisplayName\obj\Debug\DisplayName.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch01_Solutions\Ch01_01\DisplayName\DisplayName\obj\Debug\DisplayName.pdb

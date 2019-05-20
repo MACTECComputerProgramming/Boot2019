@@ -1,0 +1,30 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\bin\Debug\Family.accdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\bin\Debug\FamilyApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_01\FamilyApp\FamilyApp\obj\Debug\FamilyApp.FrmFamilyApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\Family.accdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.FrmFamilyApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csproj.GenerateResource.Cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\Family.accdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\bin\Debug\FamilyApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.FrmFamilyApp.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_03\FamilyApp\FamilyApp\obj\Debug\FamilyApp.csproj.GenerateResource.Cache

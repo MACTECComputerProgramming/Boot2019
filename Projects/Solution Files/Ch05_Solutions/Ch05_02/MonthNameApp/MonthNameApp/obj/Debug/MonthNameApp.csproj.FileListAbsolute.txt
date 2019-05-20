@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\MonthNameApp\MonthNameApp\bin\Debug\MonthNameApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_02\MonthNameApp\MonthNameApp\bin\Debug\MonthNameApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_02\MonthNameApp\MonthNameApp\bin\Debug\MonthNameApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_02\MonthNameApp\MonthNameApp\bin\Debug\MonthNameApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_02\MonthNameApp\MonthNameApp\obj\Debug\MonthNameApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_02\MonthNameApp\MonthNameApp\obj\Debug\MonthNameApp.pdb

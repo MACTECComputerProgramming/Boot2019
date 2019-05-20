@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\bin\Debug\MoneyApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Solutions\Ch04_07\MoneyApp\MoneyApp\obj\Debug\MoneyApp.csprojResolveAssemblyReference.cache

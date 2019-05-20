@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_02\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.CustomerUpdateApp.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_09\CustomerUpdateApp\CustomerUpdateApp\bin\Debug\CustomerUpdateApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_09\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_09\CustomerUpdateApp\CustomerUpdateApp\obj\Debug\CustomerUpdateApp.pdb

@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.TripCalculatorApp.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csprojResolveAssemblyReference.cache
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.TripCalculatorApp.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch09_Solutions\Ch09_04\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csproj.GenerateResource.Cache

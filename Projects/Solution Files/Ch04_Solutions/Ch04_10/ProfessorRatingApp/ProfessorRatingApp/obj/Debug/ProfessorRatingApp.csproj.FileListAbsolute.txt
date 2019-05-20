@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\bin\Debug\ProfessorRatingApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch04_Solutions\Ch04_10\ProfessorRatingApp\ProfessorRatingApp\obj\Debug\ProfessorRatingApp.csprojResolveAssemblyReference.cache

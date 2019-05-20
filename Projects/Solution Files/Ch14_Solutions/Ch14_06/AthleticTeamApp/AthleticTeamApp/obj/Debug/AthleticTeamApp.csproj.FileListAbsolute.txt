@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\Team.accdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.FrmAthleticApp.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.exe.config
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\Team.accdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.exe
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\bin\Debug\AthleticTeamApp.pdb
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.FrmAthleticApp.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.Properties.Resources.resources
+H:\Intro Program\C# Programing From Problem Analysis to Program Design\Solution Manual - C#\Solution Files\Ch14_Solutions\Ch14_06\AthleticTeamApp\AthleticTeamApp\obj\Debug\AthleticTeamApp.csproj.GenerateResource.Cache
